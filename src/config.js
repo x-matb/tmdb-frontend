@@ -1,5 +1,5 @@
 // config.js
 export default {
-  API_HOST: 'http://localhost'
+  API_HOST: 'http://mat-tmdb-backend.herokuapp.com'
 }
 
